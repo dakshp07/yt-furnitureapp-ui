@@ -51,11 +51,11 @@ $ git clone https://github.com/dakshp07/yt-furnitureapp-ui.git
 
 ## Images
 
-![First](images/travel_app.png)
+![First](images/ui.png)
 
-![Second](images/Screenshot_1603896999.png)
+![Second](images/Screenshot_1604932973.png)
 
-![Third](images/Screenshot_1603896992.png)
+![Third](images/Screenshot_1604932959.png)
 
 ## Getting Started
 
